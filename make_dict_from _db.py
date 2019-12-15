@@ -16,7 +16,7 @@ def read_in_preference(proposer_csv):
             accepter_order = row[1:]
             order_list.append((proposer,accepter_order))
     return order_list
-
+#test
 
 def make_sql_lines(order_list, table_name, sql_file):
     id = 1
