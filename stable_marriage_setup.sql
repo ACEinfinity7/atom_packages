@@ -40,5 +40,8 @@ CREATE TABLE accepter_info(
 
 CREATE TABLE experiments_info(
 	experiment_id INTEGER NOT NULL PRIMARY KEY,
+	experiment_name VARCHAR(100),
+	experimenter_f_name VARCHAR(50),
+	experimenter_l_name VARCHAR(50),
 
 )
