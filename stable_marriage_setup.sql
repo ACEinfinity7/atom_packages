@@ -1,4 +1,4 @@
-hub
+
 DROP TABLE IF EXISTS proposers_pref;
 
 CREATE TABLE proposers_pref(
