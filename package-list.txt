@@ -2,15 +2,12 @@ ascii-hex@0.2.0
 atom-beautify@0.33.4
 atom-monokai@0.10.9
 flex-monokai@0.0.5
-git-plus@8.7.1
-git-plus-toolbar@1.0.1
 hex-view@0.2.1
 highlight-selected@0.16.0
+language-pug@0.0.22
 merge-conflicts@1.4.5
 monokai@0.24.0
 monokai-shade@0.4.0
-platformio-ide-terminal@2.10.0
 print-code@0.7.1
 script@3.25.0
 tool-bar@1.2.0
-
